@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container-images-gatosgrandes img{
+	height: 100%;
+	width: 40%;
+	border-radius: 5%;
+}
+
+.container-text-descripcion h3{
+	color: crimson;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 220%;
+}
+
+.container-text-titulodescri h2{
+	color: rgb(43, 220, 20);
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 300%;
+	/*text-align: center;*/
+}
+
+.item{
+	margin: 1%;
+	float: left;
+}
+
+#item1{
+	color: crimson;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 150%;
+	text-align: left;
+}
+
+#item2 {
+	color: crimson;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 150%;
+	text-align: left;
+}
+
+#gatos img{
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
+	margin: 1%;
+	text-align: center; 
+}
