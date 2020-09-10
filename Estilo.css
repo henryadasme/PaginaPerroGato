@@ -2,8 +2,14 @@
 /* CSS Document */
 
 .container-images-gatosadopcion img{
-	height: 250px;
-	width: 250px;
+	height: 300px;
+	width: 300px;
 	border-radius: 50%;
-	margin: 9.5%;
+	margin: 5%;
+}
+
+.container-images-gatosgrandes img{
+	height: 100%;
+	width:  40%;
+	border-radius: 5%;
 }
