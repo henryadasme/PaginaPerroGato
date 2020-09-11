@@ -2,11 +2,13 @@
 .llamar p{
 
     color: white;
+    font-size: 125%;
 }
 
 .llamar h2{
 
     color: yellow;
+    font-size: 250%;
 }
 
 .body{
@@ -17,8 +19,6 @@
     font-size: 50px;
     font-family: cursive;
     color: tomato;
-    background: white;
-  
 }
 
 .lista{
@@ -26,20 +26,13 @@
     margin: 0;
     padding: 14;
 }
-.menu ul{
-    font-size: cursive;
-    background: white;
-    font: bold 14px verdana;
-}
 
-.menu li{
-    list-style: none;
-    padding: 5px;
-}
+
 
 .adopta h2{
 
     color: yellow;
+    font-size: 250%;
 }
 
 .adopta a{
@@ -48,6 +41,7 @@
 
 .contactanos h2{
     color: turquoise;
+    font-size: 150%;
 }
 .contactanos p{
     
@@ -56,12 +50,15 @@
 .final h3{
 
     color: violet;
+    font-size: 150%;
 }
 
 .final p{
 
     color: white;
+    size: 100%;
 }
+
 
 .body{
     text-align: center;
