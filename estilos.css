@@ -1,3 +1,4 @@
+
 .llamar p{
 
     color: white;
@@ -8,10 +9,32 @@
     color: yellow;
 }
 
+.body{
+    margin: 0;
+    padding: 0;
+}
 .inicio h1{
-
-    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-family: cursive;
     color: tomato;
+    background: white;
+  
+}
+
+.lista{
+    background: brown;
+    margin: 0;
+    padding: 14;
+}
+.menu ul{
+    font-size: cursive;
+    background: white;
+    font: bold 14px verdana;
+}
+
+.menu li{
+    list-style: none;
+    padding: 5px;
 }
 
 .adopta h2{
@@ -24,11 +47,22 @@
 }
 
 .contactanos h2{
-
-    color:yellow;
+    color: turquoise;
 }
-
 .contactanos p{
     
     color: white;
+}
+.final h3{
+
+    color: violet;
+}
+
+.final p{
+
+    color: white;
+}
+
+.body{
+    text-align: center;
 }
