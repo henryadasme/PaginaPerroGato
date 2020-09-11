@@ -52,7 +52,6 @@
 	text-align: center; 
 }
 
-/*ESTILO GATO BLANCO*/
 .imagegatoblanco img{
 	height: 450px;
 	width: 450px;
@@ -64,4 +63,11 @@
 	text-align: center;
 	font-size: 150%;
 	margin: 2%;
+}
+
+.botones img{
+
+	width: 10%;
+	height: 10%;
+	border-radius: 25%;
 }
