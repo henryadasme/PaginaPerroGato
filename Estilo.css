@@ -1,5 +1,12 @@
 @charset "utf-8";
 /* CSS Document */
+/*Inicio de gatos*/
+
+.titulo {
+	color: greenyellow;
+	text-align: center;
+	font-size: 250%;
+}
 
 .container-images-gatosgrandes img{
 	height: 100%;
@@ -7,17 +14,15 @@
 	border-radius: 5%;
 }
 
-.container-text-descripcion h3{
-	color: crimson;
-	font-family: 'Courier New', Courier, monospace;
-	font-size: 220%;
-}
-
 .container-text-titulodescri h2{
-	color: rgb(43, 220, 20);
+	color: greenyellow;
 	font-family: 'Courier New', Courier, monospace;
 	font-size: 300%;
-	/*text-align: center;*/
+	text-align: center;
+}
+
+.container {
+	float: center;
 }
 
 .item{
@@ -29,20 +34,40 @@
 	color: crimson;
 	font-family: 'Courier New', Courier, monospace;
 	font-size: 150%;
-	text-align: left;
+	text-align: center;
 }
 
-#item2 {
-	color: crimson;
-	font-family: 'Courier New', Courier, monospace;
-	font-size: 150%;
-	text-align: left;
+.subtitulo-adoptanos{
+	font-size: 200%;
+	margin: 3%;
+	color: greenyellow;
+	text-align: center;
 }
 
 #gatos img{
-	height: 300px;
-	width: 300px;
+	height: 450px;
+	width: 450px;
 	border-radius: 50%;
-	margin: 1%;
+	margin: 3%;
 	text-align: center; 
+}
+
+.imagegatoblanco img{
+	height: 450px;
+	width: 450px;
+	border-radius: 50%;
+}
+
+.tabla {
+	color: honeydew;
+	text-align: center;
+	font-size: 150%;
+	margin: 2%;
+}
+
+.botones img{
+
+	width: 10%;
+	height: 10%;
+	border-radius: 25%;
 }
